@@ -1,0 +1,23 @@
+{
+  "name": "sakurascript-named-handler-cuttlebone",
+  "description": "join Ukagaka SakuraScript Executer and Shell Named",
+  "dependencies": {
+  },
+  "main": ["./web/sakurascript-named-handler.js"],
+  "ignore": [
+    "**/.sw?",
+    "**/.*.sw?",
+    "bower_components",
+    "node_modules",
+    "npm-debug.log",
+    "/coverage",
+    "/doc",
+    "/.*",
+    "appveyor.yml",
+    "gulpfile.babel.js",
+    "karma.conf.js",
+    "webpack.config.js",
+    "esdoc.json"
+  ],
+  "license": "MIT"
+}
