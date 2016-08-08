@@ -1,6 +1,6 @@
 {
   "name": "sakurascript-named-handler-cuttlebone",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "join Ukagaka SakuraScript Executer and Shell Named",
   "keywords": [],
   "main": "./es5/lib/sakurascript-named-handler.js",
